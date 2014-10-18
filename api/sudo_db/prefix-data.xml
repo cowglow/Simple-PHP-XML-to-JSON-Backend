@@ -1,0 +1,32 @@
+<prefix-data>
+    <entry>
+        <name>John Doe</name>
+        <email>doe@domain.com</email>
+    </entry>
+    <entry>
+        <name>Jane Doe</name>
+        <email>doe.j@domain.com</email>
+    </entry>
+    <collections>
+        <collection>
+            <key>01</key>
+            <value>First</value>
+        </collection>
+        <collection>
+            <key>02</key>
+            <value>Second</value>
+        </collection>
+        <collection>
+            <key>03</key>
+            <value>Third</value>
+        </collection>
+        <collection>
+            <key>04</key>
+            <value>Fourth</value>
+        </collection>
+        <collection>
+            <key>05</key>
+            <value>Fifth</value>
+        </collection>
+    </collections>
+</prefix-data>
